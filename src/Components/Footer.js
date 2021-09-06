@@ -4,6 +4,7 @@ import React from 'react'
 export const Footer = () => {
     let footerStyle = {
             position: "relative",
+            top: '18rem',
             bottom:"0",
             width: "100%"
     }
