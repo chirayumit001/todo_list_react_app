@@ -4,7 +4,7 @@ import {TodoItem} from "./TodoItem";
 export const Todos = (props) => {
 
     let footerStyle = {
-        position: "absolute",
+        position: "relative",
         bottom:"0",
         width: "100%"
 }
